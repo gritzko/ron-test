@@ -1,0 +1,25 @@
+*lww#test1!
+*lww#test1@time:a'A';
+
+*lww#test2@1:0!:a'A'
+*lww#test2@2:b'B';
+
+*lww#test3@1:a'A1';
+*lww#test3@2:a'A2';
+
+*lww#test4@2:1! 
+    :a  'A1'
+    :b  'B1'
+    :c  'C1'
+*lww#test4@3:1! 
+    :a  'A2'
+    :b  'B2'
+
+*lww#array@1:0!
+    :0%0 =0,  
+    :)1%0 =-1
+*lww#array@2:0! 
+    :0%)1 '1',  
+    :)1%0 =1,  
+    :)1%)1 =2
+
