@@ -4,6 +4,9 @@ see the protocol spec at https://github.com/gritzko/ron
 
 has tests of varying intensity for various datatypes
 
+to read/edit .ron files, use vim syntax highlighting at
+https://github.com/gritzko/ron/blob/master/docs/ron.vim
+
 TODO
 
 - [ ] migrate libron to these tests
